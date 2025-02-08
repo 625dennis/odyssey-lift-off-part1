@@ -16,5 +16,8 @@
   },
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "volta": {
+    "node": "22.13.1"
+  }
 }

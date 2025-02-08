@@ -54,5 +54,8 @@
   },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "22.13.1"
+  }
 }
